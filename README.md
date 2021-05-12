@@ -7,9 +7,11 @@ DQN: A reinforcement learning algorithm that combines Q-Learning with deep neura
 Open AI Gym is a toolkit for developing and comparing reinforcement learning algorithms. It supports teaching agents everything from walking to playing games like Pong or Pinball.
 
 Open ai gym cartpole v1 enviroment
+
 ![image31](https://user-images.githubusercontent.com/38569017/118014502-977ad880-b353-11eb-98bb-09245e3f0f76.png)
 
 Enviroment end states
+
 ![image35](https://user-images.githubusercontent.com/38569017/118014553-a19cd700-b353-11eb-8400-73ff823eb269.png)
 
 ## Final results:
